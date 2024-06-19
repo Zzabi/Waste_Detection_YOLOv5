@@ -1,0 +1,6 @@
+av==11.0.0
+opencv-python==4.9.0
+torch==2.3.0
+streamlit==1.33.0
+streamlit_webrtc==0.47.6
+ffmpy==0.3.2
