@@ -146,11 +146,10 @@ with tab1:
 with tab2:
     st.subheader(
         "Please click on start (make sure to allow permission for camera)")
-    # webrtc_streamer(key="example",video_processor_factory=VideoProcessor)
+    webrtc_streamer(key="example",video_processor_factory=VideoProcessor)
 
-    # for laptops without webcam
-    model = load_model()
-    start = st.toggle("Start")
-    if start:
-        # predict_video(0)
-        predict_video("http://192.0.0.4:8080/video",change=True)
+    # for laptops without webcam use ip webcam app
+    # model = load_model()
+    # start = st.toggle("Start")
+    # if start:
+    #     predict_video("http://192.0.0.4:8080/video",change=True)
