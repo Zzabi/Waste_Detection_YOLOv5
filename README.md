@@ -59,4 +59,9 @@ Here are some examples of the model in action:
 ![Test - 2](images/result_1.jpg)
 ![Test - 3](images/result_2.jpg)
 
+## Collaborators
 
+AS Navyashree
+Mohammed Zabiullah C
+Nihal RG
+Niranjan K
